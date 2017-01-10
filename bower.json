@@ -1,0 +1,21 @@
+{
+  "name": "webpack_test",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Federico Rota <federico.rota01@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/gitfer/webpack_test",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.1",
+    "lodash": "4.16.4"
+  }
+}
